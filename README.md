@@ -78,7 +78,15 @@ docker push us-central1-docker.pkg.dev/[PROJECT_NAME]/py-occ-server/py-occ-serve
 gcloud run deploy py-occ-server --image=[LOCATION]-docker.pkg.dev/[PROJECT_ID]/py-occ-server/py-occ-server:latest --platform=managed --region=us-central1 --allow-unauthenticated --port=8000
 ```
 
-Once deployed, API will be accessible at root: https://py-occ-server-135517302438.us-central1.run.app/
+Once deployed, API will be accessible at the URL specified on the service details page: https://console.cloud.google.com/run/detail/us-central1/py-occ-server/
+
+![image](https://github.com/user-attachments/assets/549f8500-0887-4603-bb6d-790b956380d6)
+
+To modify your deployment settings, click the `Edit & Deploy New Version` button on the service details page. Here you can modify the deployment settings including adding your environmental variables as described below.
+
+![image](https://github.com/user-attachments/assets/ef3081a4-55b6-47ad-aef0-69678fd55c3e)
+
+![image](https://github.com/user-attachments/assets/369adf18-5c98-4658-b979-60b97af064cb)
 
 ## Environment variables
 
