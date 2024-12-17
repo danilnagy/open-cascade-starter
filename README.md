@@ -8,6 +8,12 @@ https://www.anaconda.com/download/success
 
 ![image](https://github.com/user-attachments/assets/5a89bde5-3fa4-4a93-9b84-1009996fda73)
 
+Run once to initialize terminal for virtual environments:
+
+```
+conda init
+```
+
 ## Helpful Conda commands
 
 ```
