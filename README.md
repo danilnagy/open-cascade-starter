@@ -6,6 +6,8 @@ https://www.anaconda.com/download/success
 
 ![image](https://github.com/user-attachments/assets/60114f0d-bf04-40b7-b989-85fc4945655a)
 
+![image](https://github.com/user-attachments/assets/5a89bde5-3fa4-4a93-9b84-1009996fda73)
+
 ## Helpful Conda commands
 
 ```
