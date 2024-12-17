@@ -34,7 +34,10 @@ run_local.bat
 
 ## Deploy to Google Cloud
 
-1. Install Docker CLI: https://www.docker.com/products/cli/
+1. Install Docker
+
+- Docker Desktop: https://www.docker.com/
+- Docker CLI: https://www.docker.com/products/cli/
 
 2. Install Google Cloud CLI: https://cloud.google.com/sdk/docs/install
 
