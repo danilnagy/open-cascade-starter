@@ -4,6 +4,8 @@
 
 https://www.anaconda.com/download/success
 
+![image](https://github.com/user-attachments/assets/60114f0d-bf04-40b7-b989-85fc4945655a)
+
 ## Helpful Conda commands
 
 ```
