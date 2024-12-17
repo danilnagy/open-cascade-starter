@@ -54,6 +54,8 @@ gcloud config set project [PROJECT_NAME]
 gcloud services enable run.googleapis.com
 ```
 
+* You may need to connect the project to a billing account to enable services like Google Cloud Run.
+
 5. Enable Artifact Registry and create repository: https://console.cloud.google.com/artifacts
 
 ```
